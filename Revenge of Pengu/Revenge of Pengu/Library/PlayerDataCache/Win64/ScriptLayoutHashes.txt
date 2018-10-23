@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/avina/Desktop/game/Revenge of Pengu.exe
+C:/Users/avina/Desktop/uni work/Revenge-of-Pengu/Game/Revenge of Pengu.exe
 SceneListBegin?
 Assets/Scenes/MenuNew.unity
 Assets/Scenes/One.unity
