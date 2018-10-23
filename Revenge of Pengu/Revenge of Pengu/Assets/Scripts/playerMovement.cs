@@ -4,6 +4,10 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+/*
+ * This class is used to control the player movement 
+ */
+
 public class playerMovement : MonoBehaviour {
 
     //Initialise movement and sliding speed

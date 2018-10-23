@@ -4,6 +4,10 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System;
 
+/*
+ * Finds the path to the target and pass it back to the ComPmove code
+ */
+
 public class Pathfinding : MonoBehaviour {
 
 	Grid grid;

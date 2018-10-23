@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Finds all the patrol points in the and adds it a list
+ */
+
 public class Patrol : MonoBehaviour
 {
 

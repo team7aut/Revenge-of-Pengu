@@ -2,6 +2,10 @@
 using System.Collections;
 using System.Collections.Generic;
 
+/*
+ * This class creates a grid for the entire map and places multiples nodes over the grid 
+ */
+
 public class Grid : MonoBehaviour {
 
 	public bool displayGridGizmos;

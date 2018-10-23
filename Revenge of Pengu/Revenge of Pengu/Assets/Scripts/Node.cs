@@ -1,6 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/*
+ * Calculates the shortest distance to the player 
+ */
+
 public class Node : IHeapItem<Node> {
 	
 	public bool walkable;

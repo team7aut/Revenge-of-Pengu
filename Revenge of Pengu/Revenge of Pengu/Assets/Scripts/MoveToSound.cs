@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * This class allows enenmies to detect the sound
+ * It allows calculates a path for enemy to follow to reach sound
+ */
+
 public class MoveToSound : MonoBehaviour {
 
     public float timer;

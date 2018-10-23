@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * This class used to trigger the lever and change between the lever animations
+ */
+
 public class Lever : MonoBehaviour {
     private SpriteRenderer spriteRend;
     public bool isOff;
@@ -43,6 +47,7 @@ public class Lever : MonoBehaviour {
         }
     }
 
+    //This method is used to set the lever off and on
     void toggleLever()
     {
         if (isOff)
@@ -58,7 +63,7 @@ public class Lever : MonoBehaviour {
         }
     }
 
-    
+    //This method is used to set the Lever animation off and on
     void spriteTransition()
     {
         if (isOff)

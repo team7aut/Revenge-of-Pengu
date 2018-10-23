@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+/*
+ * This class gives functionality to new game and quit game buttons
+ */
+
 public class MenuScript1 : MonoBehaviour {
 
 	public void PlayGame()

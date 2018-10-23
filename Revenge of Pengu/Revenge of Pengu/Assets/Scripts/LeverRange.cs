@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * This class checks if the object colliding with the level is player
+ */
+
 public class LeverRange : MonoBehaviour {
     public bool inRange;
 	// Use this for initialization

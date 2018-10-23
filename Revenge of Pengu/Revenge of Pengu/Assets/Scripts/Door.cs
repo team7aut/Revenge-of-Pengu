@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
+/*
+ * This class allows the animation of the closed and open doors 
+ */
+
 public class Door : MonoBehaviour {
 
     //Initialise of variables

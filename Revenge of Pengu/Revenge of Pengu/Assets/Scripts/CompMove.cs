@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+/*
+ * This class calculate enemies field of view and calculates the best path to the players for the enemy
+ */ 
+
 public class CompMove : MonoBehaviour {
 
     //Initialise of variables
-
     public Transform target;
     public float speed = 20;
     public bool move = false;

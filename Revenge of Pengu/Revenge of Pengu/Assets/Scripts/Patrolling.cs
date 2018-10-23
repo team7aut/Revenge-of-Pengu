@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * This class create a path for enemy to patrols 
+ */
+
 public class Patrolling : MonoBehaviour
 {
     private Patrol PatrolScript;

@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ *  This class allows for different animations of enemy
+ */
+
 public class EnemyAnimation : MonoBehaviour {
 
     //Initialise of variables

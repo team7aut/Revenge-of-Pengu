@@ -3,6 +3,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * This class allows the collect the bottle and then throw it
+ * and display the different types of animation
+ */
+
 public class Throwable : MonoBehaviour {
     private Transform player;
     private SpriteRenderer spriteRend;
